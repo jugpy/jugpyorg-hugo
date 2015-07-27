@@ -23,23 +23,11 @@ facebook_user = ""
 googleplus_user = "105656225571806435197"
 twitter_user = "jugpy"
 github_user = "jugpy"
-coderwall_user = ""
-stackoverflow_user = ""
-stackoverflow_user_id = ""
-linkedin_user = ""
-pinterest_user = ""
-delicious_user = ""
-pinboard_user = ""
-quora_user = ""
-instagram_user = ""
-behance_user = ""
-douban_user = ""
 
 # share links
-facebook_like = false
-twitter_tweet_button = false
-google_plus_one = false
-addthis_profile_id = ""
+facebook_like = true
+twitter_tweet_button = true
+google_plus_one = true
 
 # Disqus Comments
 disqus_short_name = "jugpy"
