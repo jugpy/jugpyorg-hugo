@@ -1,9 +1,9 @@
-baseurl = "http://jugpy.org/"
+baseurl = "http://jugpy.org"
 languageCode = "es-PY"
 title = "Grupo de Usuarios Java del Paraguay"
 
 [author]
-name = "JUGPy"
+name = "Java User Group Paraguay"
 # email will use for gravatar
 email = "contacto.jugpy@gmail.com"
 
