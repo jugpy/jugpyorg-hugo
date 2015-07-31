@@ -2,7 +2,6 @@
 date = "2015-07-27T13:14:07-04:00"
 draft = false
 title = "Reunión de fundación del Grupo de Usuarios Java del Paraguay"
-
 +++
 
 El 24 de julio del corriente año, por fin nos reunimos para formalizar este grupo, que desde hace un tiempo habíamos formado en la red.
