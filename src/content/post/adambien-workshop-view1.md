@@ -20,7 +20,7 @@ Los puntos que hemos podido ver y debatir entre los presentes, en esta primera p
 5. JAX-RS Rules For JUnit
 6. The Entity In BCE
 
-Durante estos primeros videos, hicimos mayor paréntesis y debate sobre el video 4 (Coding The BCE Structure), en donde Rubén nos comentó su experiencia utilizando el patrón BCE en un proyecto comercial real(queda pendiente un showcase de este proyecto para la siguiente reunión). Este patrón de arquitectura es ampliamente explicado y utilizado en el libro <b>Real World Java EE Patterns Rethinking Best Practices</b>, también de Adam Bien.
+Durante estos primeros videos, hicimos mayor paréntesis y debate sobre el video 3 (Coding The BCE Structure), en donde Rubén nos comentó su experiencia utilizando el patrón BCE en un proyecto comercial real(queda pendiente un showcase de este proyecto para la siguiente reunión). Este patrón de arquitectura es ampliamente explicado y utilizado en el libro <b>Real World Java EE Patterns Rethinking Best Practices</b>, también de Adam Bien.
 
 Para la próxima reunión esperamos que se prendan más miembros del JUG e intentaremos filmar los debates o transmitirlos on air.
 
